@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi, I'm Lana
 
-<!--
-**LanaBirin/LanaBirin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm just starting my journey in UX/UI design, with a clear goal: to create interfaces that are stylish, intuitive, and well-structured.
 
-Here are some ideas to get you started:
+🎯 Focus: aesthetics, logic, clarity 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For now, this space is quiet and empty — but every project starts with a blank page.  
+This profile is part of the process, and I'm here to build it step by step, with attention and intent ♥
+
+- 🌱 I’m currently learning: HTML basics — and how not to panic every time I hear a new technical term
+- 👯 I’m looking to collaborate on: projects that aren’t necessarily conventional or polished — but have intention, visual clarity, and a sense of meaning behind them.
+- 🤔 I’m looking for help with navigating technical tools without losing my love for aesthetics and  clarity
+- 💬 Ask me about: how it feels to start from scratch  
+(spoiler: absolutely chaotic and confusing — but strangely captivating)
+
+- 😄 Pronouns:  she/her
+- ⚡ Fun fact: I always notice when a button is 2px off, but I still forget where I put my keys and where I left my phone
