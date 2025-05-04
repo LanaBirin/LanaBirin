@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Lana
 
-I'm just starting my journey in UX/UI design, with a clear goal: to create interfaces that are stylish, intuitive, and well-structured.
+I'm just starting my journey in UX/UI design, with a clear goal: to create interfaces that are stylish, intuitive, and well-structured.  With a background in visual content creation, I'm transitioning into the tech world to blend creativity with functionality.
 
 🎯 Focus: aesthetics, logic, clarity 
 
